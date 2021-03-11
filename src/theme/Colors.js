@@ -4,5 +4,6 @@ export default colors ={
     blueDotColor:'#3f87df',
     redDotColor:'#e8634f',
     yellowDotColor:'#ffc815',
-    greenDotColor:'#5b9b6d'
+    greenDotColor:'#5b9b6d',
+    blackColor:'#000000',
 }
